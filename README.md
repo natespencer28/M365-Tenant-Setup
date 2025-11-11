@@ -1,6 +1,6 @@
 ## 👥 M365 Tenant Setup
 
-###🔹 Demo Users
+###  🔹 Demo Users
 - **Created 25 demo users** for testing and simulation.
 - Bulk-created users via CSV import and onboarded them into **Entra ID**.
 - Used PowerShell automation to streamline the process.
